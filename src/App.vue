@@ -29,7 +29,6 @@ export default {
   }
 }
 </script>
-
 <style lang="scss">
   #app {
     font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
@@ -37,10 +36,6 @@ export default {
     -moz-osx-font-smoothing: grayscale;
     color:$fcolor;
     font-size:$fsize;
-    min-height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
   }
   .el-main {
     background-color: #E9EEF3;
